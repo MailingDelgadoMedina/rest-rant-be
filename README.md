@@ -76,11 +76,11 @@ app.listen(process.env.PORT);
 ```
 
 - Type in your terminal `nodemon` make sure you are in your `rest-rant` folder.
-- Navigate to your browser to [http://localhost:3001/](http://localhost:3001/) to see your *Hello World* message.
+- Navigate to your browser to [http://localhost:3001/](http://localhost:3001/) to see your *(Hello World)* message.
 
-- Navigate to your browser to [http://localhost:3001/places](http://localhost:3001/places ) to see your *Hello from GET places!* message.
+- Navigate to your browser to [http://localhost:3001/places](http://localhost:3001/places ) to see your *(Hello from GET places!)* message.
 
-- Navigate to your browser to [http://localhost:3001/123](http://localhost:3001/123 ) to see your *404 PAGE NOT FOUND* message.
+- Navigate to your browser to [http://localhost:3001/123](http://localhost:3001/123 ) to see your *(404 PAGE NOT FOUND)* message.
 
 ## Here you have your first node project! 
 ### FYI to stop your server press on Windows `CTRL + c` and on Mac `control + c`
