@@ -14,8 +14,8 @@ Here are the steps on how to create this project:
     - `npm install nodemon --save-dev`
 
  - Your `index.js` should have the following content in it:
-
-`require('dotenv').config()
+```javascript
+require('dotenv').config()
 const express = require('express')
 const app = express()
 
@@ -28,7 +28,7 @@ app.get('*', (req, res) =>{
     res.status(404).send('<h1>404 PAGE NOT FOUND</h1>')
 })
 
-app.listen(process.env.PORT); `
+app.listen(process.env.PORT); ```
 
 
 
