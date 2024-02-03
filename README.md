@@ -20,6 +20,7 @@ REST-Rant is an app where users can review restaurants.
 
 ```
 
+```
 - create a `.gitignore` file and add to it the following:
     - `node_modules`
     - `.env`
