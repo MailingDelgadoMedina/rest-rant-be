@@ -2,7 +2,7 @@
 
 REST-Rant is an app where users can review restaurants.  
 
-Here are the steps on how to create this project:
+## Here are the steps on how to create the fist part of this project:
 - crete your node file by typing: `npm init -y`
 - crete a file named: `index.js`
 - create a folder named `controllers` inside the folder create a file named `places.js`
@@ -82,8 +82,8 @@ app.listen(process.env.PORT);
 
 - Navigate to your browser to [http://localhost:3001/123](http://localhost:3001/123 ) to see your *(404 PAGE NOT FOUND)* message.
 
-## Here you have your first node project! 
-### FYI to stop your server press on Windows `CTRL + c` and on Mac `control + c`
+ Here you have your first node project! 
+**FYI to stop your server press on Windows `CTRL + c` and on Mac `control + c`**
 
 
 
